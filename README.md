@@ -6,6 +6,6 @@ The data preparation is done using Python through a Jupiter Notebook.
 
 Here are some screenshots of the final output :
 
-![alt text](https://github.com/Abramrm/Dashboard_Airbnb/blob/master/image1.png?raw=true)
+![alt text](https://github.com/Abramrm/Dashboard_Airbnb/blob/main/image1.png?raw=true)
 
-![alt text](https://github.com/Abramrm/Dashboard_Airbnb/blob/master/image2.png?raw=true)
+![alt text](https://github.com/Abramrm/Dashboard_Airbnb/blob/main/image2.png?raw=true)
